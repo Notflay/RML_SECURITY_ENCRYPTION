@@ -4,3 +4,5 @@
 
 /RML_SECURITY_ENCRYPTION/_encriptyon.xml
 /.vs/RML_SECURITY_ENCRYPTION/*
+/RML_SECURITY_ENCRYPTION/bin/Debug/_encriptyon.xml
+/RML_SECURITY_ENCRYPTION/bin/Release/_encriptyon.xml
