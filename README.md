@@ -25,7 +25,7 @@ El archivo debe seguir la siguiente estructura:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Notflay/RML_SECURITY_ENCRYPTION.git
    ```
 2. Asegúrate de tener el archivo `_encryption.xml` correctamente configurado.
 3. Ejecuta el proyecto según las instrucciones específicas del entorno.
