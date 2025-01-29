@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/RML_SECURITY_ENCRYPTION/_encriptyon.xml
+/.vs/RML_SECURITY_ENCRYPTION/*
